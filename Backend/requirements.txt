@@ -1,0 +1,9 @@
+flask
+flask-cors
+colorama
+pandas
+numpy
+requests
+mysql-connector-python
+sqlalchemy
+scikit-learn
